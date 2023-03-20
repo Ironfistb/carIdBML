@@ -1,0 +1,1 @@
+//Hola, soy técnico en electrónica, mecánica, administrador de propiedad horizontal, Full Stack Java y licenciado en casi todo. Soy curioso, me encanta saber como funcionan las cosas y desde el conocimiento poder solucionar inconvenientes.
